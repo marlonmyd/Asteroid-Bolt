@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F5A100D8-1544-6E8D-BC02-A72ABADEAB83}") = "NASA Space Exploration Trip to the Moon1", "Assembly-CSharp-firstpass.csproj", "{FE625AD9-460F-6A3A-09F4-674CFD6DB8DC}"
+EndProject
+Project("{F5A100D8-1544-6E8D-BC02-A72ABADEAB83}") = "NASA Space Exploration Trip to the Moon1", "Assembly-CSharp.csproj", "{EF4D0004-CFF9-ABF8-9B04-378865881C77}"
+EndProject
+Project("{F5A100D8-1544-6E8D-BC02-A72ABADEAB83}") = "NASA Space Exploration Trip to the Moon1", "Assembly-CSharp-Editor.csproj", "{4C49FD19-9206-E513-C25A-C7CFADCED080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE625AD9-460F-6A3A-09F4-674CFD6DB8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE625AD9-460F-6A3A-09F4-674CFD6DB8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE625AD9-460F-6A3A-09F4-674CFD6DB8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE625AD9-460F-6A3A-09F4-674CFD6DB8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4D0004-CFF9-ABF8-9B04-378865881C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4D0004-CFF9-ABF8-9B04-378865881C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4D0004-CFF9-ABF8-9B04-378865881C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4D0004-CFF9-ABF8-9B04-378865881C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C49FD19-9206-E513-C25A-C7CFADCED080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C49FD19-9206-E513-C25A-C7CFADCED080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C49FD19-9206-E513-C25A-C7CFADCED080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C49FD19-9206-E513-C25A-C7CFADCED080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
